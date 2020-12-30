@@ -1,0 +1,14 @@
+body {
+  background: rgb(255, 0, 0);
+}
+p {
+  color: #ffffff;
+  text-align: center;
+}
+h1 {
+  font-weight: bold;
+}
+#omg {
+  position: relative;
+  right: -10% ;
+}

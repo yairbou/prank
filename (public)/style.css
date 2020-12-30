@@ -1,0 +1,49 @@
+body {
+  background: #ff9900;
+}
+p {
+  color: #6DD3FB;
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+  color: white;
+  font-size: 100px;
+}
+#pee {
+  position: absolute;
+  right: 0;
+  top: 0;
+  background-color: #ffac2e;
+}
+.farhi {
+  text-align: center;
+}
+h3 {
+  font-size: 70px;
+}
+#wowo {
+  line-height: 20px;
+  margin: inherit;
+  border:2px inset rgb(255, 115, 0);
+}
+#yeair {
+  position: relative;
+  right: -43%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  text-decoration: none;
+}
+h5 {
+  font-size: 60px;
+}
+.anni {
+  color: #0000ff;
+}
+#anni {
+  float: right;
+  line-height: 20px;
+  text-align: right;
+  border:2px inset rgb(255, 115, 0);
+  ;
+}

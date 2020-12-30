@@ -1,0 +1,21 @@
+head {
+  text-align: center;
+}
+body {
+  background: red;
+  font-size: 50mm;
+}
+p {
+  color: greenyellow;
+  text-align: center;
+}
+
+h1 {
+  font-weight: bold;
+}
+a {
+  float:right;
+  position: relative;
+  right: 30%;
+  font-size: 50mm;
+}
